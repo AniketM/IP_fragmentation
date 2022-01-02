@@ -3,8 +3,6 @@
 //  IP_fragmentation
 //
 //  Created by Aniket Mitra on 01/11/14.
-//  Copyright (c) 2014 Aniket Mitra. All rights reserved.
-//
 
 #include <stdio.h>
 #include <math.h>
